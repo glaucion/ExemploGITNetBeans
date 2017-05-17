@@ -16,6 +16,7 @@ public class Exemplo_GitHub_NetBeans {
      */
     public static void main(String[] args) {
         System.out.println("Exemplo NetBeans");
+        System.out.println("Alteração no Exemplo Git NetBeans");
         
     }
     
